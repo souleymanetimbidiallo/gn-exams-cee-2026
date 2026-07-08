@@ -1,7 +1,8 @@
 streamlit
 pandas
 openpyxl
-pyarrow
-duckdb
 plotly
+duckdb
+pyarrow
 pillow
+pydeck
